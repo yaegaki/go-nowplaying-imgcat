@@ -3,7 +3,7 @@ Nowplaying with image.
 
 # Install
 ```sh
-go get github.com/yaegaki/go-nowplaying-imgcat
+go get -u github.com/yaegaki/go-nowplaying-imgcat
 ```
 
 # Usage 
